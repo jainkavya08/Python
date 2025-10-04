@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="963f5033-7fd0-49e0-87fd-3321675bfe2b" name="Changes" comment="Commit - Test" />
+    <list default="true" id="963f5033-7fd0-49e0-87fd-3321675bfe2b" name="Changes" comment="Commit - 4">
+      <change beforePath="$PROJECT_DIR$/01. Basics/Code/ifelsestatements_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. Basics/Code/ifelsestatements_01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ifelsestatements_01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1759571657981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit - 4">
+      <option name="closed" value="true" />
+      <created>1759572565029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759572565029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit - Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Test" />
+    <MESSAGE value="Commit - 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - 4" />
   </component>
 </project>
