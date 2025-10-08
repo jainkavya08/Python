@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="963f5033-7fd0-49e0-87fd-3321675bfe2b" name="Changes" comment="Commit - 7">
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Userinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/areaofrec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/arithemticoperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/assignmentoperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/checkdatatyoe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/squareandcube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/twosum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="963f5033-7fd0-49e0-87fd-3321675bfe2b" name="Changes" comment="Commit - 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +27,12 @@
     &quot;assignee&quot;: &quot;jainkavya08&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jainkavya08/PYTHON.git",
-    "accountId": "72886536-6cf9-49ab-be18-70aaf87db219"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jainkavya08/PYTHON.git&quot;,
+    &quot;accountId&quot;: &quot;72886536-6cf9-49ab-be18-70aaf87db219&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,27 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Hello.executor": "Run",
-    "Python.Userinput.executor": "Run",
-    "Python.areaofrec.executor": "Run",
-    "Python.arithemticoperators.executor": "Run",
-    "Python.checkdatatyoe.executor": "Run",
-    "Python.ifelseladder_02.executor": "Run",
-    "Python.ifelsestatements_01.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.squareandcube.executor": "Run",
-    "Python.switchcase.executor": "Run",
-    "Python.twosum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/kj/Documents/Obs/Kj/Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Userinput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.areaofrec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arithemticoperators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkdatatyoe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifelseladder_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifelsestatements_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.squareandcube.executor&quot;: &quot;Run&quot;,
+    &quot;Python.switchcase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twosum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kj/Documents/Obs/Kj/Python&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759647183063</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit - 10">
+      <option name="closed" value="true" />
+      <created>1759901614139</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759901614140</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +150,7 @@
     <MESSAGE value="Commit - 5" />
     <MESSAGE value="Commit - 6" />
     <MESSAGE value="Commit - 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - 7" />
+    <MESSAGE value="Commit - 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - 10" />
   </component>
 </project>
