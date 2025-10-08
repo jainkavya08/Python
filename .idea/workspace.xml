@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="963f5033-7fd0-49e0-87fd-3321675bfe2b" name="Changes" comment="Commit - 7">
-      <change afterPath="$PROJECT_DIR$/01. Basics/Code/switchcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/areaofrec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/arithemticoperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/assignmentoperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/checkdatatyoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/squareandcube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/twosum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -29,12 +37,12 @@
     &quot;assignee&quot;: &quot;jainkavya08&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jainkavya08/PYTHON.git&quot;,
-    &quot;accountId&quot;: &quot;9fa1debf-f73a-4f02-bf6e-9516e18a1f10&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jainkavya08/PYTHON.git",
+    "accountId": "72886536-6cf9-49ab-be18-70aaf87db219"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -46,10 +54,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Hello.executor": "Run",
+    "Python.Userinput.executor": "Run",
+    "Python.areaofrec.executor": "Run",
+    "Python.arithemticoperators.executor": "Run",
+    "Python.checkdatatyoe.executor": "Run",
     "Python.ifelseladder_02.executor": "Run",
     "Python.ifelsestatements_01.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.squareandcube.executor": "Run",
     "Python.switchcase.executor": "Run",
+    "Python.twosum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -60,7 +75,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b030e9c4a83c-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26199.168" />
+        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
