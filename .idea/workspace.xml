@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b2df23-1fb3-4dd9-add7-99c69d11eac5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/Code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Code/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Lab - Uni/Notes/Python - Arguements - 8 Oct 2025.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python Lab - Uni/Notes/Python - Arguements - 8 Oct 2025.md" afterDir="false" />
-    </list>
+    <list default="true" id="97b2df23-1fb3-4dd9-add7-99c69d11eac5" name="Changes" comment="Commit - Distro Change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jainkavya08"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jainkavya08/Python.git",
+    "accountId": "92da302f-452e-42c3-8fe0-8e60104576c8"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -58,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1760806323864</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit - Distro Change">
+      <option name="closed" value="true" />
+      <created>1760892949827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760892949827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit - Distro Change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Distro Change" />
   </component>
 </project>
