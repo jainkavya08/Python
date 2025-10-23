@@ -42,4 +42,3 @@
 17. Write a program to determine whether a number is **within a specific range** (like 10–50).
 18. Write a program to check if a number is **odd and divisible by 7**.
 19. Write a program to **compare two strings** and print whether they are the same or not.
-a
