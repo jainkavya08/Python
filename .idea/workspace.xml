@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b2df23-1fb3-4dd9-add7-99c69d11eac5" name="Changes" comment="Commit - Distro Change">
+    <list default="true" id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/accessandlistindict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/addorremovefromdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/countevenoroddinlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/createaccesstuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/createdisplaylist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/frequencyoflementsofdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/largest&amp;smallestinlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/lenoftuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/removeduplications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/sort&amp;reverselist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/sum&amp;avgoflistitem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 3 Mids/unionintersectionset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Basics/Notes/Questions/Questiobs.md" beforeDir="false" afterPath="$PROJECT_DIR$/01. Basics/Notes/Questions/Questiobs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/matplotmultigraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/matplotmultigraph.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,76 +46,55 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jainkavya08/Python.git&quot;,
-    &quot;accountId&quot;: &quot;92da302f-452e-42c3-8fe0-8e60104576c8&quot;
+    &quot;accountId&quot;: &quot;0074dcd1-5c1f-4b9b-9683-b671a603bce3&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="34FPPTZkV39kBfDtpPiQVmG0Lq9" />
+  <component name="ProjectId" id="34lgrhQ5OYRlqt30xFcG1GrW8WL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Positivenegativezero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Positiveornegative.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matplotmultigraph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.passedorfail.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jainkavya/Documents/Obs/Kj/Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.BFS.executor": "Run",
+    "Python.accessandlistindict.executor": "Run",
+    "Python.arrays.executor": "Run",
+    "Python.countevenoroddinlist.executor": "Run",
+    "Python.createaccesstuple.executor": "Run",
+    "Python.createdisplaylist.executor": "Run",
+    "Python.frequencyoflementsofdict.executor": "Run",
+    "Python.largest&smallestinlist.executor": "Run",
+    "Python.lenoftuple.executor": "Run",
+    "Python.removeduplications.executor": "Run",
+    "Python.sort&reverselist.executor": "Run",
+    "Python.sum&avgoflistitem.executor": "Run",
+    "Python.unionintersectionset.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/kavya/Documents/Obs/Kj/Python",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97b2df23-1fb3-4dd9-add7-99c69d11eac5" name="Changes" comment="" />
-      <created>1760806323864</created>
+      <changelist id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="" />
+      <created>1761793774724</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760806323864</updated>
+      <updated>1761793774724</updated>
     </task>
-    <task id="LOCAL-00001" summary="Commit - Distro Change">
-      <option name="closed" value="true" />
-      <created>1760892949827</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1760892949827</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Commit - Distro Change">
-      <option name="closed" value="true" />
-      <created>1760954170998</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1760954170998</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Commit - Distro Change">
-      <option name="closed" value="true" />
-      <created>1761128183608</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1761128183608</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Distro Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Distro Change" />
   </component>
 </project>
