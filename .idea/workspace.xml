@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="Commit - Mid-Sems">
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/areaofrec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/datatypepython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/greetingmessage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/inputoutput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/looprint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/naturalno.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Lab - Uni/Notes/List, Tuple, Dict &amp; Set.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python Lab - Uni/Notes/List, Tuple, Dict &amp; Set.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BFS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +29,12 @@
     &quot;assignee&quot;: &quot;jainkavya08&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jainkavya08/Python.git",
-    "accountId": "2bbb78df-695a-465f-9573-169c004e02ad"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jainkavya08/Python.git&quot;,
+    &quot;accountId&quot;: &quot;2bbb78df-695a-465f-9573-169c004e02ad&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -49,35 +43,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.BFS.executor": "Run",
-    "Python.accessandlistindict.executor": "Run",
-    "Python.areaofrec.executor": "Run",
-    "Python.arrays.executor": "Run",
-    "Python.countevenoroddinlist.executor": "Run",
-    "Python.createaccesstuple.executor": "Run",
-    "Python.createdisplaylist.executor": "Run",
-    "Python.datatypepython.executor": "Run",
-    "Python.frequencyoflementsofdict.executor": "Run",
-    "Python.greetingmessage.executor": "Run",
-    "Python.inputoutput.executor": "Run",
-    "Python.largest&smallestinlist.executor": "Run",
-    "Python.lenoftuple.executor": "Run",
-    "Python.looprint.executor": "Run",
-    "Python.naturalno.executor": "Run",
-    "Python.removeduplications.executor": "Run",
-    "Python.sort&reverselist.executor": "Run",
-    "Python.sum&avgoflistitem.executor": "Run",
-    "Python.unionintersectionset.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/kavya/Documents/Obs/Kj/Python",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.BFS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.accessandlistindict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.areaofrec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countevenoroddinlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createaccesstuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createdisplaylist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datatypepython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frequencyoflementsofdict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greetingmessage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputoutput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largest&amp;smallestinlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lenoftuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.looprint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.naturalno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.removeduplications.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort&amp;reverselist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum&amp;avgoflistitem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unionintersectionset.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kavya/Documents/Obs/Kj/Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -117,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762000069566</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit - Mid-Sems">
+      <option name="closed" value="true" />
+      <created>1762347217311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762347217311</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
