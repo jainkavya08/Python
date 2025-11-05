@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="Commit - Mid-Sems">
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/areaofrec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/datatypepython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/greetingmessage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/inputoutput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/looprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Lab - Uni/Unit - 1 Mids/naturalno.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Lab - Uni/Notes/List, Tuple, Dict &amp; Set.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python Lab - Uni/Notes/List, Tuple, Dict &amp; Set.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +35,12 @@
     &quot;assignee&quot;: &quot;jainkavya08&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jainkavya08/Python.git&quot;,
-    &quot;accountId&quot;: &quot;0074dcd1-5c1f-4b9b-9683-b671a603bce3&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jainkavya08/Python.git",
+    "accountId": "2bbb78df-695a-465f-9573-169c004e02ad"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,13 +54,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.BFS.executor": "Run",
     "Python.accessandlistindict.executor": "Run",
+    "Python.areaofrec.executor": "Run",
     "Python.arrays.executor": "Run",
     "Python.countevenoroddinlist.executor": "Run",
     "Python.createaccesstuple.executor": "Run",
     "Python.createdisplaylist.executor": "Run",
+    "Python.datatypepython.executor": "Run",
     "Python.frequencyoflementsofdict.executor": "Run",
+    "Python.greetingmessage.executor": "Run",
+    "Python.inputoutput.executor": "Run",
     "Python.largest&smallestinlist.executor": "Run",
     "Python.lenoftuple.executor": "Run",
+    "Python.looprint.executor": "Run",
+    "Python.naturalno.executor": "Run",
     "Python.removeduplications.executor": "Run",
     "Python.sort&reverselist.executor": "Run",
     "Python.sum&avgoflistitem.executor": "Run",
@@ -62,7 +75,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/kavya/Documents/Obs/Kj/Python",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -96,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761999564432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit - Mid-Sems">
+      <option name="closed" value="true" />
+      <created>1762000069566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762000069566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
