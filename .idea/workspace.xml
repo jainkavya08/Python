@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="Commit - Mid-Sems">
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Astar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/greddy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BSsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Lssearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/selection_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BFS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +51,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Astar.executor": "Run",
     "Python.BFS.executor": "Run",
+    "Python.BSsearch.executor": "Run",
     "Python.DFS.executor": "Run",
+    "Python.Lssearch.executor": "Run",
     "Python.accessandlistindict.executor": "Run",
     "Python.areaofrec.executor": "Run",
     "Python.arrays.executor": "Run",
+    "Python.bubble_sort.executor": "Run",
     "Python.countevenoroddinlist.executor": "Run",
     "Python.createaccesstuple.executor": "Run",
     "Python.createdisplaylist.executor": "Run",
@@ -133,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762357814619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit - Mid-Sems">
+      <option name="closed" value="true" />
+      <created>1762408646307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762408646307</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
