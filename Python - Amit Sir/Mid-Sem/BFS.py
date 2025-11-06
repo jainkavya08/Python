@@ -1,20 +1,22 @@
-# creating a graph first
+# Creating a graph
 graph = {
-    '5' : ['3','7'],
-    '3' : ['2','4'],
-    '2' : [],
-    '4' : ['8'],
-    '7' : ['8'],
-    '8' : []
+    '5': ['3', '7'],
+    '3': ['2', '4'],
+    '7': ['8'],
+    '2': [],
+    '4': ['8'],
+    '8': []
+
 }
 
-# Lisiting visited nodes
+# listing the visited
 visited = []
 
-# Intializing queue
+# intializing the queue
 queue = []
 
-def bfs (visited,graph,node) :
+# Function for bfs traversal
+def bfs (graph,visited,node):
     visited.append(node)
     queue.append(node)
 
@@ -22,15 +24,12 @@ def bfs (visited,graph,node) :
         m = queue.pop(0)
         print(m, end = " ")
 
-
         for neighbour in graph[m]:
             if neighbour not in visited:
                 visited.append(neighbour)
                 queue.append(neighbour)
 
+
 # Driver code
-print ("Following is the BFS Code : ")
-bfs(visited,graph,'5')
-
-
-
+print("Following is the BFS path")
+bfs(graph,visited,'5')
