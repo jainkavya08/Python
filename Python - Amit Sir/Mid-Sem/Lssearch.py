@@ -5,6 +5,7 @@ def linear_search(arr,key):
             return
     print("Element not found")
 
-arr = [10,25,30,45,50]
-key = 45
-linear_search(arr, key)
+# Example
+arr = [10,20,30,40,50]
+key = 30
+linear_search(arr,key)

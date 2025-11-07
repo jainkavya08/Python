@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="Commit - Mid-Sems">
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BSsearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Lssearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/selectionsort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BSsearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BSsearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Lssearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Lssearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/bubble_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
     "Python.looprint.executor": "Run",
     "Python.naturalno.executor": "Run",
     "Python.removeduplications.executor": "Run",
+    "Python.selectionsort.executor": "Run",
     "Python.sort&reverselist.executor": "Run",
     "Python.sum&avgoflistitem.executor": "Run",
     "Python.unionintersectionset.executor": "Run",
@@ -144,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762408646307</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit - Mid-Sems">
+      <option name="closed" value="true" />
+      <created>1762457721364</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762457721364</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
