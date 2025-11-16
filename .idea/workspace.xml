@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2ddf29-9e22-4840-b179-51df7a5a3fb9" name="Changes" comment="Commit - Mid-Sems">
-      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/selectionsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/matmat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BSsearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/BSsearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Lssearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/Lssearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Amit Sir/Mid-Sem/bubble_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,8 @@
     "Python.largest&smallestinlist.executor": "Run",
     "Python.lenoftuple.executor": "Run",
     "Python.looprint.executor": "Run",
+    "Python.matmat.executor": "Run",
+    "Python.matplotlib.executor": "Run",
     "Python.naturalno.executor": "Run",
     "Python.removeduplications.executor": "Run",
     "Python.selectionsort.executor": "Run",
@@ -76,10 +75,11 @@
     "Python.sum&avgoflistitem.executor": "Run",
     "Python.unionintersectionset.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/kavya/Documents/Obs/Kj/Python",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -153,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762457721364</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit - Mid-Sems">
+      <option name="closed" value="true" />
+      <created>1762491388677</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762491388677</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
